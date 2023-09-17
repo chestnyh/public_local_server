@@ -10,3 +10,8 @@ git clone git@github.com:chestnyh/public_local_server.git \
 && npm i \
 && npm start
 ```
+
+## Start already installed:
+```
+npm start
+```
