@@ -1,0 +1,23 @@
+{
+  "name": "public_local_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chestnyh/public_local_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chestnyh/public_local_server/issues"
+  },
+  "homepage": "https://github.com/chestnyh/public_local_server#readme",
+  "dependencies": {
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
